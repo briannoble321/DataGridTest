@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "latest",
+    "@mui/x-data-grid": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest"
+  },
+  "description": "https://github.com/mui/mui-x/blob/v5.10.0/docs/data/data-grid/overview/DataGridDemo.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "main": "index.tsx",
+  "name": "DataGridDemo Material Demo",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "title": "DataGridDemo Material Demo"
+}
